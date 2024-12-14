@@ -1,0 +1,100 @@
+B010 134 Instant Ramen
+D004 032 Hot Chocolate Mix
+A009 205 Frozen Berries
+D013 312 Instant Mocha
+C004 341 Boxed Milk Chocolate
+B024 201 Instant Bibimbap
+A017 104 Frozen Chicken Wings
+D023 361 Instant Cocoa
+B015 154 Instant Soup Mix
+C025 072 Bottled Coconut Milk
+B005 132 Instant Porridge
+C006 113 Canned Coffee
+A001 024 Broccoli Frozen
+D007 301 Instant Matcha
+A003 010 Frozen Pizza
+C008 134 Energy Drink
+B019 345 Instant Quinoa
+A018 203 Frozen Strawberries
+D002 234 Powdered Milk
+C012 263 Canned Coconut Water
+D016 173 Powdered Grape Drink
+A024 302 Frozen Pancakes
+C020 117 Canned Grape Soda
+A004 305 Fish Fillet
+A013 305 Frozen Spinach
+D018 215 Powdered Strawberry Drink
+B023 362 Instant Jambalaya
+A011 032 Frozen Lasagna
+D001 333 Instant Coffee
+A016 215 Frozen Cauliflower
+B020 205 Instant Pad Thai
+C022 321 Bottled Pomegranate Juice
+C009 312 Bottled Green Tea
+B008 325 Instant Macaroni
+A021 104 Frozen Broccoli
+C019 306 Bottled Sparkling Water
+C015 143 Canned Pineapple Juice
+A022 205 Frozen Carrots
+B006 221 Instant Mashed Potatoes
+C001 324 Bottled Water
+C021 238 Boxed Cranberry Juice
+C007 205 Sports Drink
+B001 241 Instant Noodles Chicken
+B017 213 Instant Chow Mein
+C024 213 Boxed Guava Juice
+A014 116 Frozen Peas
+D020 328 Powdered Mango Juice
+B021 134 Instant Congee
+A005 042 Ice Cream Vanilla
+B002 113 Instant Soup Tomato
+A006 221 Mixed Vegetables
+C018 296 Canned Tomato Juice
+D015 033 Instant Horchata
+A010 124 Shrimp Dumplings
+D009 216 Instant Soup Mix
+D019 137 Instant Bubble Tea
+A002 115 Chicken Nuggets
+C011 154 Bottled Lemonade
+A007 102 Frozen Fries
+A023 231 Frozen Green Beans
+B003 312 Instant Rice
+C003 102 Juice Box Apple
+D025 130 Instant Turmeric Latte
+B007 104 Instant Curry
+B009 215 Instant Oatmeal
+A025 143 Frozen Mango
+D022 143 Powdered Lychee Drink
+B022 253 Instant Falafel Mix
+C005 230 Bottled Iced Tea
+B014 235 Instant Grits
+C023 129 Canned Peach Iced Tea
+B016 322 Instant Polenta
+A015 302 Frozen Waffles
+C017 165 Boxed Almond Milk
+A020 013 Frozen Blueberries
+D003 105 Instant Tea
+D014 203 Powdered Orange Drink
+B012 202 Instant Couscous
+A008 313 Beef Patties
+C014 332 Bottled Fruit Punch
+D021 259 Instant Eggnog
+C010 242 Boxed Juice Mango
+C013 021 Boxed Soy Milk
+B004 203 Instant Pasta
+D012 145 Powdered Iced Tea
+D005 215 Protein Powder
+B011 043 Instant Pancake Mix
+A019 325 Frozen Potatoes
+C002 215 Canned Soda
+A012 213 Frozen Corn
+D010 335 Powdered Fruit Punch
+C016 254 Bottled Orange Juice
+B025 143 Instant Sushi Kit
+C017 165 Boxed Almond Milk
+B018 126 Instant Tortilla Soup
+D017 294 Instant Cappuccino
+D011 224 Instant Chai
+A017 104 Frozen Chicken Wings
+C017 165 Boxed Almond Milk
+B013 321 Instant Risotto
